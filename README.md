@@ -36,7 +36,7 @@ their tickets.
 
 
 #### ACTIVITY DIAGRAM :
-<img width="838" height="831" alt="image" src="https://github.com/user-attachments/assets/4edd5b62-5514-4061-8eb0-76586e5b07fa" />
+<img width="1228" height="754" alt="image" src="https://github.com/user-attachments/assets/d67c5941-921b-472b-a478-d74955220296" />
 
 
 #### COMMUNICATION DIAGRAM :
@@ -44,6 +44,7 @@ their tickets.
 
 
 #### PACKAGE DIAGRAM :
+<img width="665" height="605" alt="image" src="https://github.com/user-attachments/assets/538e99ab-daed-4005-a135-c1ee40824c9c" />
 
 
 
