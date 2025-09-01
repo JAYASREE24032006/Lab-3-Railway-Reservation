@@ -24,17 +24,23 @@ their tickets.
 ### UML DIAGRAMS :
 
 #### USECASE DIAGRAM :
+<img width="1029" height="716" alt="image" src="https://github.com/user-attachments/assets/5ea7a02d-e0b8-4228-a9f5-7b501f490840" />
 
 
 #### CLASS DIAGRAM :
+<img width="1203" height="840" alt="image" src="https://github.com/user-attachments/assets/5ad42392-f90b-4ec2-b831-888ffa1c1c2f" />
+
 
 #### SEQUENCE DIAGRAM :
+<img width="1150" height="828" alt="image" src="https://github.com/user-attachments/assets/845edf0b-1dc0-4089-beb3-ecf242c77879" />
 
 
 #### ACTIVITY DIAGRAM :
+<img width="838" height="831" alt="image" src="https://github.com/user-attachments/assets/4edd5b62-5514-4061-8eb0-76586e5b07fa" />
 
 
 #### COMMUNICATION DIAGRAM :
+<img width="1275" height="832" alt="image" src="https://github.com/user-attachments/assets/5eec06a1-ef6f-4532-9a20-9a90f8540b16" />
 
 
 #### PACKAGE DIAGRAM :
